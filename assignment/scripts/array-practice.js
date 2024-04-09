@@ -10,8 +10,8 @@ console.log('Animals are: ', animalArray);
 // 1. TODO: Make an array `favoriteFoods` with some favorite foods.
 //    Be sure to console.log your array of foods to the console with
 //    a message, similar to the example above.
-
-
+let favoriteFoods = ['greens' , 'yams' , 'cornbread' , 'rice & gravy', 'beeftips'];
+console.log('Favorite foods include: ' , favoriteFoods);
 // Array.length: A property that tells you how many items are in a given array.
 console.log('--- 2. Length of an array ---');
 
@@ -22,6 +22,7 @@ console.log('Number of animals:', numberOfAnimals);
 // 2. TODO: Create a variable `numberOfFoods` and use the .length property
 //    to assign it the number value of how many items are inside `favoriteFoods`.
 //    Don't forget to console.log `numberOfFoods` to make sure your code worked!
+
 
 
 // Accessing array items
